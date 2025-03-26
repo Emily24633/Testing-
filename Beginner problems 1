@@ -1,0 +1,8 @@
+a=int(input("Enter number of minutes: "))
+print(a*60)
+#question 2
+b=int(input("Enter number of cards her sister get: "))
+print(b*2)
+#question 3
+c=int(input("Enter number of your ages: "))
+print(c*365)
